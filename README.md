@@ -1,1 +1,1 @@
-DEMO : https://bariserzen-netflixclone.netlify.app/
+DEMO : https://bariserzen-netflixclone.netlify.app/ 
